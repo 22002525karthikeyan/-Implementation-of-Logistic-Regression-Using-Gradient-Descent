@@ -116,11 +116,11 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 
-### Array vaqlue of X:
+### Array value of X:
 
 ![ML](ML-01.png)
 
-### Array vaqlue of Y:
+### Array value of Y:
 ![ML](ML-02.png)
 
 ### Exam 1-Score graph:
